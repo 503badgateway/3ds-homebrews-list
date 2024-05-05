@@ -1,0 +1,22 @@
+site_name: 3ds-homebrew-list
+theme:
+  name: material
+  features:
+  
+    - search.suggest
+    - search.highlight
+    - navigation.footer
+extra_javascript:
+  - js/extra.js
+repo_url: https://github.com/503badgateway/3ds-homebrew-list
+markdown_extensions: 
+  - attr_list
+  - md_in_html
+  
+site_description: A list of 3ds/2ds homebrew.
+site_name: 3ds-homebrew-list
+site_url: https://503badgateway.github.io/3ds-homebrew-list
+
+plugins:
+  - rss
+  - search
