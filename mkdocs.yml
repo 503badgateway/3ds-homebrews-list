@@ -8,14 +8,14 @@ theme:
     - navigation.footer
 extra_javascript:
   - js/extra.js
-repo_url: https://github.com/503badgateway/3ds-homebrew-list
+repo_url: https://github.com/503badgateway/3ds-homebrews-list
 markdown_extensions: 
   - attr_list
   - md_in_html
   
 site_description: A list of 3ds/2ds homebrew.
 site_name: 3ds-homebrew-list
-site_url: https://503badgateway.github.io/3ds-homebrew-list
+site_url: https://503badgateway.github.io/3ds-homebrews-list/site
 
 plugins:
   - rss
