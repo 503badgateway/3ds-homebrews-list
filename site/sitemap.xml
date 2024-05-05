@@ -16,6 +16,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://503badgateway.github.io/3ds-homebrew-list/CTGP-7/</loc>
+         <lastmod>2024-05-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://503badgateway.github.io/3ds-homebrew-list/ChatGPT3DS/</loc>
          <lastmod>2024-05-05</lastmod>
          <changefreq>daily</changefreq>
@@ -27,6 +32,11 @@
     </url>
     <url>
          <loc>https://503badgateway.github.io/3ds-homebrew-list/ImageShare/</loc>
+         <lastmod>2024-05-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://503badgateway.github.io/3ds-homebrew-list/MCU%20Bricker/</loc>
          <lastmod>2024-05-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -72,6 +82,11 @@
     </url>
     <url>
          <loc>https://503badgateway.github.io/3ds-homebrew-list/Universal-Updater/</loc>
+         <lastmod>2024-05-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://503badgateway.github.io/3ds-homebrew-list/WifiManager/</loc>
          <lastmod>2024-05-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
