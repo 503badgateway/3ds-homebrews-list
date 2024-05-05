@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://503badgateway.github.io/3ds-homebrew-list/3DShell/</loc>
+         <lastmod>2024-05-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://503badgateway.github.io/3ds-homebrew-list/3ds-httpd/</loc>
          <lastmod>2024-05-05</lastmod>
          <changefreq>daily</changefreq>
@@ -56,7 +61,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://503badgateway.github.io/3ds-homebrew-list/S3SH/</loc>
+         <lastmod>2024-05-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://503badgateway.github.io/3ds-homebrew-list/ThirdTube/</loc>
+         <lastmod>2024-05-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://503badgateway.github.io/3ds-homebrew-list/Universal-Updater/</loc>
          <lastmod>2024-05-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
