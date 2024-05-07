@@ -10,6 +10,6 @@ Unlike StreetPass, NetPass works over the internet. Upon opening NetPass, you ca
 
 And, while you are at the location, others who enter it can get passes with you. But beware! You can only switch locations once every 10 hours!
 
-[Releases](https://gitlab.com/Sorunome/3ds-streetpass/-/releases)   
-[Source Code](https://gitlab.com/Sorunome/3ds-streetpass)  
+[Gbatemp](https://gbatemp.net/threads/a-new-way-to-experience-streetpass.653810/)   
+[Gitlab](https://gitlab.com/Sorunome/3ds-streetpass)  
 [Discord](https://discord.gg/QY8wzCMHyP)

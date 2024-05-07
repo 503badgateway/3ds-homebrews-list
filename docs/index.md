@@ -5,7 +5,11 @@ This brief introduction will highlight an acclaimed website dedicated to providi
 
 Write with ChatGPT,
 
-From [Gbatemp](https://gbatemp.net/) and other websites.
+**We welcome your contributions to enhancing our wiki!** You can contribute in two ways:
+
+ - Simply open an [Issues](https://github.com/503badgateway/3ds-homebrews-list/issues) to discuss what you'd like to add.
+
+ - Fork this repository and submit a [Pull request \(PR\)](https://github.com/503badgateway/3ds-homebrews-list/pulls) with your changes.
 
 
 [<img src="https://i.imgur.com/sK4nb4q.png">](https://earnapp.com/i/vU9KURNL)
